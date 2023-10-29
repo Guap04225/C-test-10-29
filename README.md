@@ -1,2 +1,7 @@
 # C-test-10-29
-a C practice record 内容包括 
+## a C practice record 
+#### 内容包括：
+1. 一维数组的创建、初始化、内存存储方式
+2. 二维数组的创建、初始化、内存存储方式
+
+
